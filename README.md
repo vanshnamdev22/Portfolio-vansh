@@ -1,4 +1,4 @@
-📊 Data Analyst Portfolio – Vansh Namdev
+## 📊 Portfolio – Vansh Namdev
 
 Welcome to my data analyst portfolio! I specialize in transforming raw data into meaningful insights using Python, SQL, and visualization tools. With strong academic foundations and hands-on project experience, I focus on data-driven problem solving and real-world applications in analytics and machine learning.
 
