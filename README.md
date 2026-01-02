@@ -1,10 +1,10 @@
-## 📊 Portfolio – Vansh Namdev
+# 📊 Portfolio – Vansh Namdev
 
 Welcome to my data analyst portfolio! I specialize in transforming raw data into meaningful insights using Python, SQL, and visualization tools. With strong academic foundations and hands-on project experience, I focus on data-driven problem solving and real-world applications in analytics and machine learning.
 
 ---
 
-👤 Profile Summary
+## 👤 Profile Summary
 
 - B.Tech CSE (IoT specialization) student with strong academic and project-based experience in data analysis and machine learning  
 - Skilled in data cleaning, preprocessing, and exploratory data analysis using Python (Pandas, NumPy) and SQL  
@@ -14,7 +14,7 @@ Welcome to my data analyst portfolio! I specialize in transforming raw data into
 
 ---
 
-🧠 Skills
+## 🧠 Skills
 
 Languages  
 - Python, SQL  
@@ -38,7 +38,7 @@ Tools & Platforms
 
 ---
 
-💼 Professional Experience
+## 💼 Professional Experience
 
 Edunet Foundation — Data Analyst Intern  
 Feb 2025 – Mar 2025  
@@ -51,7 +51,7 @@ Feb 2025 – Mar 2025
 
 ---
 
-📈 Featured Projects
+## 📈 Featured Projects
 
 🔍 Research Paper Publishability Assessment  
 Jan 2025  
@@ -74,7 +74,7 @@ Mar 2025
 
 ---
 
-🎓 Education
+## 🎓 Education
 
 Bachelor of Technology (B.Tech) – Computer Science Engineering (IoT)  
 Samrat Ashok Technological Institute, Vidisha (M.P.)  
@@ -83,7 +83,7 @@ CGPA: **6.94 / 9.5**
 
 ---
 
-📜 Certifications & Achievements
+## 📜 Certifications & Achievements
 
 - **Cummins Scholar**  
   Selected among top **300 students out of 9,200 nationwide** for a prestigious engineering scholarship  
@@ -95,14 +95,14 @@ CGPA: **6.94 / 9.5**
 
 ---
 
-❤️ Interests
+## ❤️ Interests
 
 - Exploring emerging technologies (IoT, Sensors, Robotics)  
 - Staying updated with Data Science, Analytics, and IT trends  
 
 ---
 
-📬 Let’s Connect!
+## 📬 Let’s Connect!
 
 📧 Email: engg.vansh1@gmail.com  
 🔗 LinkedIn: [https://www.linkedin.com/in/vansh-namdev/](https://www.linkedin.com/in/vansh-namdev/)
